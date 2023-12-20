@@ -29,8 +29,8 @@ entries:
     - https://zoharking.jfrog.io/artifactory/api/helm/www-helm/external-secrets-0.9.8+test-mos.tgz
     type: application
     kubeVersion: '>= 1.19.0-0'
-    appVersion: "v1.9.8+test-mos"
-    version: "1.9.8+test-mos"
+    appVersion: "0.2.0-beta"
+    version: "0.2.0-beta"
   - apiVersion: v2
     created: 2023-12-17T23:20:08.565674537Z
     description: External secret management for Kubernetes
